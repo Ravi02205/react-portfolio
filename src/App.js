@@ -1,12 +1,12 @@
 import './App.scss';
-import { createHashRouter, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Layout from './components/Layouts/index';
 import Home from './components/Home';
 import About from './components/About';
 import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 
-const routes = createHashRouter([
+const routes = createBrowserRouter([
   {
     path: "/react-portfolio",
     element: <Layout />,
@@ -21,11 +21,11 @@ const routes = createHashRouter([
       },
       {
         path: '/contact',
-        element: <Contact/>
+        element: <Contact />
       },
       {
         path: '/portfolio',
-        element: <Portfolio/>
+        element: <Portfolio />
       }
     ]
   },
