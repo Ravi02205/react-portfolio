@@ -16,15 +16,15 @@ const routes = createBrowserRouter([
         element: <Home />
       },
       {
-        path: '/about',
+        path: '/react-portfolio/about',
         element: <About />
       },
       {
-        path: '/contact',
+        path: '/react-portfolio/contact',
         element: <Contact />
       },
       {
-        path: '/portfolio',
+        path: '/react-portfolio/portfolio',
         element: <Portfolio />
       }
     ]
