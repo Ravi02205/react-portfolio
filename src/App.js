@@ -8,7 +8,7 @@ import Portfolio from './components/Portfolio';
 
 const routes = createHashRouter([
   {
-    path: "/",
+    path: "/react-portfolio",
     element: <Layout />,
     children: [
       {
