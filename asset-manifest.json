@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.257807fe.css",
-    "main.js": "/react-portfolio/static/js/main.e64fe92c.js",
+    "main.js": "/react-portfolio/static/js/main.8ed2fc7f.js",
     "static/media/helvetica-neu.ttf": "/react-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/LaBelleAurore.woff": "/react-portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
     "static/media/logo-r-space.png": "/react-portfolio/static/media/logo-r-space.f665a923d82605a544fa.png",
@@ -12,10 +12,10 @@
     "static/media/CoolveticaRg-Regular.woff2": "/react-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/react-portfolio/index.html",
     "main.257807fe.css.map": "/react-portfolio/static/css/main.257807fe.css.map",
-    "main.e64fe92c.js.map": "/react-portfolio/static/js/main.e64fe92c.js.map"
+    "main.8ed2fc7f.js.map": "/react-portfolio/static/js/main.8ed2fc7f.js.map"
   },
   "entrypoints": [
     "static/css/main.257807fe.css",
-    "static/js/main.e64fe92c.js"
+    "static/js/main.8ed2fc7f.js"
   ]
 }
